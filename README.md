@@ -1,4 +1,4 @@
-# Software Testing Portfolio
+# Software Testing Portfolyo
 
 Merhaba, ben Elemnur GÜNER. Bu repoda Yazılım Test Uzmanlığı alanında yaptığım çalışmaları, test senaryolarımı, güvenlik testlerini ve performans testlerini derledim.
 
